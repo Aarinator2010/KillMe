@@ -1,0 +1,9 @@
+name: KillMe
+version: '${version}'
+
+main: de.dorfnetwork.killMe.KillMe
+api-version: '26.1.2'
+load: POSTWORLD
+commands:
+  killme:
+    description: Kill the Player who run the command.
